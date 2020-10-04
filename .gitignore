@@ -1,0 +1,8 @@
+**/node_modules/
+__sapper__/
+
+static/global.css
+
+.DS_Store
+yarn-error.log
+yarn.lock
