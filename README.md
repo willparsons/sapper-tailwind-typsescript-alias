@@ -2,6 +2,12 @@
 
 This template has support for tailwindcss and typescript with proper setup for aliases. Currently you can reference `src` with `@/`. There are examples in this template.
 
+## Thanks to
+
+Huge thanks to codechips for the guide on putting tailwind into sapper, this template just adds typescript and aliases.
+
+https://github.com/codechips/sapper-with-postcss-and-tailwind
+
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
