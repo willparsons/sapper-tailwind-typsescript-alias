@@ -1,5 +1,4 @@
 const cssnano = require("cssnano")({ preset: "default" });
-const autoprefixer = require("autoprefixer");
 
 const presetEnv = require("postcss-preset-env")({
     features: {
