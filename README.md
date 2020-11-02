@@ -1,3 +1,5 @@
+So sapper just got killed off which is fun.
+
 # sapper-tailwindcss-typescript
 
 This template has support for tailwindcss and typescript with proper setup for aliases. Currently you can reference `src` with `@/`. There are examples in this template.
